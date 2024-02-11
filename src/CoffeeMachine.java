@@ -24,7 +24,6 @@ public class CoffeeMachine {
     }
     private static void prepareCoffee(int choice){
         Scanner scanner = new Scanner(System.in);
-        Scanner scannerStr = new Scanner(System.in);
 
         BaseCoffee coffee;
 

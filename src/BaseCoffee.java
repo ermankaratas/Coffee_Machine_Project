@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public abstract class BaseCoffee implements Coffee{
     private CoffeeSizes size;
     private boolean cold;
